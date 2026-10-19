@@ -1,2 +1,3 @@
 Hello Git
 Second line
+Edited from a clone
